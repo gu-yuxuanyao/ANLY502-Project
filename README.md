@@ -4,7 +4,7 @@
 - **E-mail**:(kz175, gx26, zz267, yy560)@georgetown.edu
 
 # Dataset
-- **[Global Surface Summary of Day](https://registry.opendata.aws/noaa-gsod/)
+- [Global Surface Summary of Day](https://registry.opendata.aws/noaa-gsod/)
 - **Amazon Resource Name (ARN)**: `arn:aws:s3:::aws-gsod`
 - **Size**: 20.1 GB
 - **Description**: GSOD is a collection of daily weather measurements (temperature, wind speed, humidity, pressure, and more) from 9000+ weather stations around the world.
