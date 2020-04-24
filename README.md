@@ -1,5 +1,6 @@
 # Project Info
-- **Course**: Data Science and Analytics 502 Project
+- **Georgetown University Data Science and Analytics**
+- **Course**: Massive Data Fundamentals 502 Project
 - **Contributors**: Kuiyu Zhu, Guiming Xu, Zihao Zhou, Yuxuan Yao
 - **E-mail**:(kz175, gx26, zz267, yy560)@georgetown.edu
 
