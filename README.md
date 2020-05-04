@@ -20,4 +20,6 @@ In many cases, the weather forecast plays a very important role in life. If peop
 
 * [`rain_prediction(LR&DT).ipynb`](https://github.com/gu-yuxuanyao/502Project/blob/master/rain_prediction(LR%26DT).ipynb): This program selects 14 columns as the predictors and _Rain_or_Drizzle_ as the label we need to predict. This program mainly implements the `LogisticRegression`, `DecisionTreeClassifier` and `RandomForestClassifier` to do the classification models and the evaluation method is `BinaryClassificationEvaluator`. 
 
-* All programs apply pipeline for the machine learning processing.
+* All programs apply pipeline for the machine learning processing. [`REPORT_ANLY-502 Weather Prediction Project Report.pdf`](https://github.com/gu-yuxuanyao/502Project/blob/master/REPORT_ANLY-502%20Weather%20Prediction%20Project%20Report.pdf) contains all the details about our project.
+
+# Thank you and have a nice day! :)
